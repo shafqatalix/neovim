@@ -3,7 +3,7 @@
 To get started:
  
 ```
-git clone https://github.com/shafqatalix/neovim ~/.config/nvim && rm -rf ~/.config/nvim/.git && nvim
+git clone https://github.com/shafqatalix/neovim.git ~/.config/nvim && rm -rf ~/.config/nvim/.git && nvim
 ```
 
 ## Uninstall 
